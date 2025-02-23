@@ -1,0 +1,9 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 2
+names: ['Violence', 'non_violence']
+# kpt_shape: [19, 3] # Ensure this is correctly formatted
+
+# flip_idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
