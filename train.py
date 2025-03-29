@@ -12,7 +12,7 @@ model.train(
     imgsz=640,
     batch=16,
     device=0 if torch.cuda.is_available() else "cpu",
-    name="SciFairFightDetection",
+    name="FightDetector",
     workers=4,
 )
 
