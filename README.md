@@ -1,4 +1,4 @@
-# Agression classification & firearm detection models for Live AI Hackathon
+# Agression classification & firearm detection models
 
 ### Real-Time Threat detection using YOLO architecture w/ millisecond processing/inference speeds.
 
